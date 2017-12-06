@@ -1,6 +1,4 @@
 /*
- Navicat Premium Data Transfer
-
  Source Server         : DB02@BASEAPP02
  Source Server Type    : SQL Server
  Source Server Version : 13001601
